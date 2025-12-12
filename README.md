@@ -21,7 +21,7 @@ This project analyzes global youth unemployment trends to understand patterns ac
 - **Notebooks:**
     1. [Data_Exploration_and_Cleaning.ipynb](notebooks/Data_Exploration_and_Cleaning.ipynb): Initial data checks and cleaning.
     2. [Global_Trends_Analysis.ipynb](notebooks/Global_Trends_Analysis.ipynb): Visualization of trends.
-    3. [Statistical_Modeling_&_Forecasting.ipynb](notebooks/Statistical_Modeling_%26_Forecasting.ipynb): Predictive modeling.
+    3. [Statistical_Modeling_and_Forecasting.ipynb](notebooks/Statistical_Modeling_and_Forecasting.ipynb): Predictive modeling.
     4. [Interactive_Dashboard.ipynb](notebooks/Interactive_Dashboard.ipynb): Dashboard view.
 
 ## Instructions
